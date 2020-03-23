@@ -1,0 +1,23 @@
+h1 {
+    color: aqua;
+}
+
+.tree {
+    color: blueviolet;
+}
+.image-size {
+    height: 145px;
+} 
+.comparison-image {
+    height: 300px;
+}
+
+.hover-image:hover {
+    border-style: solid;
+    border-color: blue;
+}
+
+.selected-image {
+    border-style: solid;
+    border-color: red;
+}
