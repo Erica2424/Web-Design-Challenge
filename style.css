@@ -1,9 +1,9 @@
 h1 {
-    color: aqua;
+    color: rgb(33, 216, 198);
 }
 
 .tree {
-    color: blueviolet;
+    color: rgb(33, 216, 198);
 }
 .image-size {
     height: 145px;
@@ -15,9 +15,4 @@ h1 {
 .hover-image:hover {
     border-style: solid;
     border-color: blue;
-}
-
-.selected-image {
-    border-style: solid;
-    border-color: red;
 }
