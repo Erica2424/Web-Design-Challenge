@@ -1,9 +1,9 @@
 h1 {
-    color: rgb(33, 216, 198);
-}
+    color: rgb(16, 70, 105);
+    }
 
 .tree {
-    color: rgb(33, 216, 198);
+    color: rgb(16, 70, 105);
 }
 .image-size {
     height: 145px;
@@ -15,4 +15,9 @@ h1 {
 .hover-image:hover {
     border-style: solid;
     border-color: blue;
+}
+body {font-size: 1em;
+    background-color: #ccc;
+    margin: 20px;
+    padding: 50px;
 }
